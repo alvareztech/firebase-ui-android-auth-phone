@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "806977590058",
+    "firebase_url": "https://today-eb8db.firebaseio.com",
+    "project_id": "today-eb8db",
+    "storage_bucket": "today-eb8db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806977590058:android:36b62019cb431133",
+        "android_client_info": {
+          "package_name": "tech.alvarez.today"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806977590058-uk2fb0pckksja0qi6vlb3eqnjqraatef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.alvarez.today",
+            "certificate_hash": "3ae78e3a9e72d2c0d67b2a45134ec732755bf2e6"
+          }
+        },
+        {
+          "client_id": "806977590058-m4n7h41ts97bltm06sorhdtao1t5sn03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpx_zBG_X8d-1HpOBl47stBsgQwhka_1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806977590058-dk9ib0mktur03fvmodm4ibtnjn4l7jc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.alvarez.Today"
+              }
+            },
+            {
+              "client_id": "806977590058-m4n7h41ts97bltm06sorhdtao1t5sn03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
